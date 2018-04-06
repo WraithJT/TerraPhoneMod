@@ -1,0 +1,3 @@
+author = WraithJT
+version = 0.1
+displayName = TerraPhone

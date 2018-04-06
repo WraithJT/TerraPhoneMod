@@ -1,0 +1,19 @@
+Remote storage access (Mobile Banking)
+Remote merchant (Terrarazon)
+Remote NPC
+Contacts list
+--for non-merchant NPCs
+Teleport (Tuber)
+--cost based on distance, with minimum cost
+NPC (idiot bar?)
+--unlocks new features based on progress, eg teleportation post-Plantera
+
+
+
+
+Item for remote storage access
+--combines with Cell Phone to create Smart Phone (TerraPhone?)
+
+
+Use inventory drawing functions from JPAN's Bags of Holding (GenericBagUI)
+Use DrawSlots function from vanilla ChestUI
